@@ -4,4 +4,16 @@ The point of this project was to create an API to serve information to a Boss Ma
 
 `npm run start` to begin server.
 
-![Homepage]()
+### Homepage
+![Homepage](Homepage.png)
+
+### Workers
+![Workers](Workers.png)
+
+### Add a new worker
+![New workers](Add_new_worker.png)
+
+### Add a new idea
+![New Ideas](Add_new_ideas.png)
+
+
